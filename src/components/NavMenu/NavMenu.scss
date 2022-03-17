@@ -1,0 +1,17 @@
+@use "../../assets/scss/variables" as *;
+
+.navmenu {
+  display: flex;
+  list-style-type: none;
+
+  &__item {
+    .navmenu__anchor,
+    .navmenu__anchor:visited {
+      text-decoration: none;
+      color: $colour-font;
+    }
+  }
+  &__item:nth-child(1) {
+    margin-right: $margin-nav-item;
+  }
+}
