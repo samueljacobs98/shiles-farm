@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/shiles-farm/static/css/main.a060381f.css",
-    "main.js": "/shiles-farm/static/js/main.e40b15fe.js",
+    "main.css": "/shiles-farm/static/css/main.713688dc.css",
+    "main.js": "/shiles-farm/static/js/main.d9785d18.js",
     "static/js/787.1fa94b7f.chunk.js": "/shiles-farm/static/js/787.1fa94b7f.chunk.js",
     "index.html": "/shiles-farm/index.html",
-    "main.a060381f.css.map": "/shiles-farm/static/css/main.a060381f.css.map",
-    "main.e40b15fe.js.map": "/shiles-farm/static/js/main.e40b15fe.js.map",
+    "main.713688dc.css.map": "/shiles-farm/static/css/main.713688dc.css.map",
+    "main.d9785d18.js.map": "/shiles-farm/static/js/main.d9785d18.js.map",
     "787.1fa94b7f.chunk.js.map": "/shiles-farm/static/js/787.1fa94b7f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a060381f.css",
-    "static/js/main.e40b15fe.js"
+    "static/css/main.713688dc.css",
+    "static/js/main.d9785d18.js"
   ]
 }
