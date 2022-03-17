@@ -1,0 +1,12 @@
+@use "../../assets/scss/variables" as *;
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  background-color: $colour-primary;
+  .navbar__logo {
+    text-align: center;
+  }
+}
